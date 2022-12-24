@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-falawebsite-staging-163217-authRole",
+      "UnauthRoleArn": "arn:aws:iam::079271339045:role/amplify-falawebsite-staging-163217-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::079271339045:role/amplify-falawebsite-staging-163217-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-falawebsite-staging-163217-deployment",
+      "UnauthRoleName": "amplify-falawebsite-staging-163217-unauthRole",
+      "StackName": "amplify-falawebsite-staging-163217",
+      "StackId": "arn:aws:cloudformation:us-east-2:079271339045:stack/amplify-falawebsite-staging-163217/5db208a0-82df-11ed-bc38-02bb87faaed2",
+      "AmplifyAppId": "d2ap53uvb5rjfb"
+    },
+    "categories": {
+      "auth": {
+        "falawebsite": {}
+      }
+    }
+  }
+}
